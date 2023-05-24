@@ -1,0 +1,9 @@
+--index-url http://pypi.devops.xiaohongshu.com/simple
+--extra-index-url https://mirrors.cloud.tencent.com/pypi/simple
+--trusted-host pypi.devops.xiaohongshu.com
+--trusted-host mirrors.cloud.tencent.com
+
+
+coscmd==1.8.6.24
+Flask==2.0.1
+waitress==2.0.0
